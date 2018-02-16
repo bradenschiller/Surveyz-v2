@@ -1,5 +1,6 @@
 const passport = require("passport");
 
+//routing to google for profile information
 module.exports = app => {
   app.get(
     "/auth/google",
