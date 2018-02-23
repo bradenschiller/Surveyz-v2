@@ -9,5 +9,9 @@ module.exports = {
   },
   cookie: {
     cookieKey: process.env.COOKIE_KEY
+  },
+  stripe: {
+    stripePublishableKey: process.env.STRIPE_PUBLISHABLE_KEY,
+    stripeSecretKey: process.env.STRIPE_SECRET_KEY
   }
 };
