@@ -4,7 +4,7 @@ const Landing = () => {
   return (
     <div style={{ textAlign: "center" }}>
       <h1>
-        Surveys
+        Surveyz
         <i className="medium material-icons light-blue-text text-lighten-2">
           mail
         </i>
